@@ -7,7 +7,7 @@ QQ绑定手机查询
 
 #### 使用教程
 <p align="center">
-<img width = "600" src=".0jpg">
+<img width = "600" src="0.jpg">
 </p>
 
 #### 使用说明
